@@ -5,7 +5,7 @@
 */
 #include <stdio.h>
 
-int main() {
+int main(void) {
    //char str[3][6] = {"Above", "Less", "Equal"};
    int a, b;
    scanf ("%d%d", &a, &b);
